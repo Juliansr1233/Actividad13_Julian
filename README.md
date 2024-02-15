@@ -1,4 +1,4 @@
-Estos son los apartados de la tarea 1.3 del Servidor LAMP:
+Estos son los cuatro apartados de la tarea 1.3 del Servidor LAMP:
 
 [Apartado1.3.1](1.3/3.1/readme.md)
 
