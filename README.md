@@ -1,9 +1,9 @@
 Estos son los cuatro apartados de la tarea 1.3 del Servidor LAMP:
 
-[Apartado1.3.1](1.3/3.1/readme.md)
+[Actividad13_lamp](Actividad_1.3/Actividad13_lamp/readme.md)
 
-[Apartado1.3.2](1.3/3.2/readme.md)
+[Actividad13_wordpress](Actividad_1.3/Actividad13_wordpress/readme.md)
 
-[Apartado1.3.3](1.3/3.3/readme.md)
+[Actividad13_wordpress_dockers](Actividad_1.3/Actividad13_wordpress_dockers/readme.md)
 
-[Apartado1.3.4](1.3/3.4/readme.md)
+[Actividad13_lamp_dockers](Actividad_1.3/Actividad13_lamp_dockers/readme.md)
